@@ -1,8 +1,8 @@
-# 👋 Bryan Pajarillaga — Personal Portfolio
+# 👋 Bryan Pajarillaga (CodeWithBry) — Personal Portfolio
 
 > A personal portfolio website I built to showcase my projects, skills, and a little bit about myself. Made with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-🔗 **Live Site:** [portfolio-next-js-theta-tawny.vercel.app](https://portfolio-next-js-theta-tawny.vercel.app/)
+🔗 **Live Site:** [codewithbry.vercel.app](https://codewithbry.vercel.app/)
 
 ---
 
