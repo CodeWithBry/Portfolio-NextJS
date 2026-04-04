@@ -45,7 +45,7 @@ The site has smooth scroll animations, a light/dark mode toggle, a responsive na
 ## 📁 Project Structure
 
 ```
-Portfolio-NextJS/
+CodeWithBry/
 │
 ├── app/
 │   ├── page.tsx          # Main page — puts all sections together, handles theme & active section context
@@ -68,6 +68,7 @@ Portfolio-NextJS/
 │   │
 │   └── ui/
 │       ├── AnimationContainer.tsx  # Wrapper that handles the reveal-on-scroll animation
+│       ├── Loading.tsx         # Loading modal box
 │       └── Button.tsx              # Reusable button component
 │
 ├── hooks/
@@ -99,8 +100,8 @@ node -v
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/CodeWithBry/Portfolio-NextJS.git
-cd Portfolio-NextJS
+git clone https://github.com/CodeWithBry/CodeWithBry.git
+cd CodeWithBry
 ```
 
 **2. Install dependencies**
